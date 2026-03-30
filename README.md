@@ -2,7 +2,6 @@
 I'm Gabriel Curcio, fullstack software developer and currrently under computing engineer bachelors.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curciogabriel/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/curcioog)
 ____
 
 ### 🛠️ Skills
