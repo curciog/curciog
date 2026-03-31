@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Gabriel Curcio, fullstack software developer and currrently under computing engineer bachelors.
+I'm Gabriel Curcio, fullstack software developer and currently under computing engineer bachelors.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curciogabriel/)
 ____
